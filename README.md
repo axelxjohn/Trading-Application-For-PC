@@ -7,5 +7,5 @@ Hello there! I'm a Discord bot and web developer!
 - 📑 Im the owner and developer of [MonoBot](https://top.gg/bot/850698499540385852)
 
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lukass-&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lukass-0069&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauldb09&show_icons=true&theme=tokyonight&layout=compact" />
