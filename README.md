@@ -2,7 +2,7 @@
 
 Hello there! I'm a Discord bot and web developer!
 
-- 💻 The languages I know are Javascript and Python.
+- 💻 The languages I know are Javascript, Typescript and Python.
 - 👋 Reach me on [Discord.](https://discord.com/users/746425032246558742)
 
 # My Github Statistics
