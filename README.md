@@ -16,7 +16,14 @@
 
 # Showcase
 
-![sscreenshowscase](https://static.tradingview.com/static/bundles/app-view.cb6d45c43bcf89257771.png)
+![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/1.png?raw=true)
+
+![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/2.png?raw=true)
+
+![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/3.png?raw=true)
+
+![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/4.png?raw=true)
+
 
 ### About Trading Application
 
