@@ -18,6 +18,9 @@
 
 ![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/main.png?raw=true)
 
+
+# Screenshots Application
+
 ![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/1.png?raw=true)
 
 ![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/2.png?raw=true)
