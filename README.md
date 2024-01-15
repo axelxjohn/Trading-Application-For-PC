@@ -27,6 +27,8 @@
 
 ![sscreenshowscase](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/3.png?raw=true)
 
+![focus](https://github.com/dwantless/Trading-Application-For-PC/blob/main/Clients-dll/4.png?raw=true)
+
 
 
 ### About Trading Application
